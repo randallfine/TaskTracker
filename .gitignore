@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+out/
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# DotCover and other JetBrains stuff
+*.dotCover
+.idea/
+
+# Auto-generated files
+Generated_Code/
+
+# Logs
+*.log
+
+# Database files (local dev only)
+*.db
+*.db-shm
+*.db-wal
+
+# EF Core migration snapshots (optional)
+Migrations/*Designer.cs
+Migrations/*ModelSnapshot.cs
+
+# Secrets (if any, store separately and don’t track)
+secrets.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Git conflicts
+*.orig
+
+# ReSharper (if you install it later)
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet packages (if you’re not committing them)
+*.nupkg
+*.snupkg
+
+# Global tools / temp files
+/.vs/
