@@ -54,3 +54,4 @@ _ReSharper*/
 
 # Global tools / temp files
 /.vs/
+.fake
